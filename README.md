@@ -27,7 +27,7 @@ Binary (Relax vs. Stress) and Multi-Class stress state classification from 32-ch
 
 *The pipeline achieves strong cross-subject generalization for binary stress detection, exceeding chance by over 32 percentage points under strict Leave-One-Subject-Out evaluation.*
 
-![Confusion Matrices](reports/confusion_matrices.png)
+![Confusion Matrices](reports/confusion_matrix_multiclass.png)
 
 ---
 
